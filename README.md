@@ -11,7 +11,7 @@ Elasticsearch service with Elasticsearch Helper.
 ## Installation
 
 Elasticsearch Helper AWS can be installed via the
-[standard Drupal installation process](http://drupal.org/node/895232).
+[standard Drupal installation process](https://www.drupal.org/docs/extending-drupal/installing-drupal-modules).
 
 ## Configuration
 
